@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "577799551756",
+    "firebase_url": "https://pj-prueba-8cce2-default-rtdb.firebaseio.com",
+    "project_id": "pj-prueba-8cce2",
+    "storage_bucket": "pj-prueba-8cce2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577799551756:android:009a43e510e914b0382729",
+        "android_client_info": {
+          "package_name": "com.example.prueba2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsp8k6I9GzSLhN1v2kLWCrtG_3U3ol2oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
